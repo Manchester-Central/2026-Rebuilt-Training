@@ -1,4 +1,4 @@
-﻿# 2026-Rebuilt Training
+﻿# 2026-Rebuilt-Training
 
 To clone/download, make sure to setup SSH keys and recursively download the repo.
 
